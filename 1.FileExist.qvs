@@ -22,8 +22,9 @@ sub vL.FileExist (vL._Root)
 	set vL._Root=;
 end sub;
  // test change
+// online change
 
 // **********************************
-// Application written by Frederik Nünning
+// Application written by Frederik NÃ¼nning
 // QlikTech GmbH
 // **********************************
